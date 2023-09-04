@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804356112154",
+    "project_id": "quotes-app-960be",
+    "storage_bucket": "quotes-app-960be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804356112154:android:85937d385e36f12ddff6a3",
+        "android_client_info": {
+          "package_name": "com.example.quotes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804356112154-fg82ppfm5v50kfe3ur259kh26u0lgogq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABerSEMVG95x_UumkZguqmfk0iR1YTa1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804356112154-fg82ppfm5v50kfe3ur259kh26u0lgogq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
